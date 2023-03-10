@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013147408557",
+    "project_id": "contact-trace-3b-2023",
+    "storage_bucket": "contact-trace-3b-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013147408557:android:05cb1c8445ac5e2e464e24",
+        "android_client_info": {
+          "package_name": "com.example.contact_trace_3b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013147408557-vvhn7ne2ja50nm9ksh2ai5lo4m9u23if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoTmxM71V2qUstIjtkzv89woiMiFp4y2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013147408557-vvhn7ne2ja50nm9ksh2ai5lo4m9u23if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
